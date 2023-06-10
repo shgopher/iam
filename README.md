@@ -91,4 +91,4 @@ You are encouraged to communicate most things via [GitHub issues](https://github
 
 ## 许可证
 
-IAM is licensed under the MIT. See [LICENSE](LICENSE) for the full license text.
+IAM is licensed under the MIT. See [LICENSE](LICENSE) for the full license text.。
